@@ -423,3 +423,4 @@
 {"height": 423, "hash": "db4c823290e4877f58f2db8959a801a7b201ddaccfb91eb33852d7f834f1dc3f", "l1_anchor": "ca1569c4aa1ef37b926c019f30ab20c865ea8361e7ec066edb56bed51fe734ed", "ts": 1789582555}
 {"height": 424, "hash": "fca30a4dab77c64480b2fc6274bc0d27fb4c367c4a213daf9f75f6e5adc4b520", "l1_anchor": "ca1569c4aa1ef37b926c019f30ab20c865ea8361e7ec066edb56bed51fe734ed", "ts": 1789582585}
 {"l2_height": 421, "action": "TOKEN_CREATE", "symbol": "OMEGA", "name": "BitGold-Omega", "supply": 21000000, "l1_anchor": "dcaa53a47f68b58d2ba961f41508a1c87699c2aa776263ebcef9f793e9e2c535", "creator": "Brandon Michael Mercado", "genesis": "0x66150b77e1e5d6DCb868F0873ab63B9D34BEb8FF"}
+{"l2_height": 421, "action": "TOKEN_CREATE", "symbol": "OMEGA", "name": "BitGold-Omega", "supply": 21000000, "l1_anchor": "dcaa53a47f68b58d2ba961f41508a1c87699c2aa776263ebcef9f793e9e2c535", "creator": "Brandon Michael Mercado", "genesis": "0x66150b77e1e5d6DCb868F0873ab63B9D34BEb8FF"}
