@@ -1,0 +1,13 @@
+{
+  "bridge": "OMEGA -> ETH/SOL",
+  "collection": "OMEGA Bit-Gold Titles",
+  "genesis": "0x66150b77e1e5d6DCb868F0873ab63B9D34BEb8FF",
+  "tip": "bf210153d351977f6f1c6f7d69f00a4189e726e3cab530a4fc743c20f48dc5a6",
+  "height": 354,
+  "wrapped": [
+    {"token_id": 352, "hash": "ab972c0a4b19...", "uri": "ipfs://OMEGA-352", "owner": "0x6615...b8FF", "chain": "ETH"},
+    {"token_id": 353, "hash": "d43a78a60549...", "uri": "ipfs://OMEGA-353", "owner": "0x6615...b8FF", "chain": "SOL"}
+  ],
+  "bridge_contract": "0x66150b77e1e5d6DCb868F0873ab63B9D34BEb8FF",
+  "status": "L5 BRIDGE LIVE - wrap OMEGA titles as ERC721/SPL"
+}

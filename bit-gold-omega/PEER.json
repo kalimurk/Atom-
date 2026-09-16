@@ -1,0 +1,12 @@
+{
+  "node_id": "2e0e07c5-bd6b-4b",
+  "genesis": "0x66150b77e1e5d6DCb868F0873ab63B9D34BEb8FF",
+  "tip": "bf210153d351977f6f1c6f7d69f00a4189e726e3cab530a4fc743c20f48dc5a6",
+  "height": 354,
+  "p2p": "174.204.66.123:8333",
+  "rpc": "174.204.66.123:8332",
+  "explorer": "174.204.66.123:8081",
+  "market": "174.204.66.123:8082",
+  "status": "MAINNET LIVE - L6 COMPLETE - AUTO-MINE 600s",
+  "connect": "curl http://174.204.66.123:8333/"
+}

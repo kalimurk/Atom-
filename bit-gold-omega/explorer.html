@@ -1,0 +1,12 @@
+<!doctype html><title>OMEGA L5</title><style>body{font:14px monospace;background:#000;color:#0f0;padding:20px}.card{border:1px solid #0f0;padding:10px;margin:10px;display:inline-block;width:220px} button{background:#0f0;color:#000;border:0;padding:5px 10px;cursor:pointer}</style>
+<h1>OMEGA L5 - 353 PRODUCING - SOLO 0x6615...b8FF</h1>
+<div id="stats">Loading...</div><div id="market"></div>
+<script>
+async function load(){
+  let c=await fetch('/api/chain').then(r=>r.json());
+  let m=await fetch('http://127.0.0.1:8082/').then(r=>r.json()).catch(()=>({listings:[]}));
+  document.getElementById('stats').innerHTML=`TIP: ${c.tip}<br>HEIGHT: ${c.height} (${c.chain_full}+${c.beacon})<br>P2P: 174.204.66.123:8333 PUBLIC | RPC: :8332 | MARKET: :8082<br>GENESIS: 0x66150b77e1e5d6DCb868F0873ab63B9D34BEb8FF SOLO 21M`;
+  document.getElementById('market').innerHTML=m.listings.map(t=>`<div class=card><b>${t.id}</b><br>${t.hash}...<br>${t.owner.slice(0,10)}...<br>${t.price}<br><button onclick="fetch('http://127.0.0.1:8082/api/buy',{method:'POST'}).then(()=>alert('Bought '+t.id))">BUY</button></div>`).join('');
+}
+load(); setInterval(load,5000);
+</script>

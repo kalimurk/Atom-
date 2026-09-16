@@ -1,0 +1,12 @@
+{
+  "dao": "OMEGA DAO",
+  "genesis": "0x66150b77e1e5d6DCb868F0873ab63B9D34BEb8FF",
+  "tip": "bf210153d351977f6f1c6f7d69f00a4189e726e3cab530a4fc743c20f48dc5a6",
+  "height": 354,
+  "supply": "21M SOLO",
+  "owner": "SOLO YOU - 102 blocks",
+  "public": "174.204.66.123:8333",
+  "proposal": "L7 - Transfer ownership from solo to DAO",
+  "vote": "Holders of OMEGA titles (88-354) vote to keep solo or open validator set",
+  "status": "L7 - WORLD COMPUTER - Anyone can run validator2.py and sync from 8333"
+}
