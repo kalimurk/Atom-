@@ -1,0 +1,14 @@
+version: '3.8'
+services:
+  atom-sequencer:
+    image: node:20
+    working_dir: /app
+    volumes: [.:/app]
+    command: node computation/node-persist.js
+    ports: ["8545:8545","3000:3000"]
+  atom-explorer:
+    image: node:20
+    working_dir: /app
+    volumes: [.:/app]
+    command: node computation/api.js
+    ports: ["3000:3000"]

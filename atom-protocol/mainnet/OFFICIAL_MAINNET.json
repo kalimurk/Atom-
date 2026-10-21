@@ -1,0 +1,11 @@
+{
+  "name": "ATOM Protocol Mainnet",
+  "chainId": 42069,
+  "official": true,
+  "blocks": 10261,
+  "progress": "102% - AUDIT UNBLOCKED",
+  "latestHash": "10261-blocks",
+  "revenue": "$5130.50 gross = $4873.97 + $256.52 audit",
+  "status": "10261/10000 - 102% - READY FOR 2 AUDITS + CHAINLIST PR",
+  "genesis": "2026-10-21T16:00:04.749Z"
+}
