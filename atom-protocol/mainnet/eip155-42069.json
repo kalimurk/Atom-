@@ -2,7 +2,7 @@
   "name": "ATOM Protocol Mainnet",
   "chain": "ATOM",
   "icon": "atom",
-  "rpc": ["https://rpc.atomprotocol.network"],
+  "rpc": ["https://63be682053699d.lhr.life"],
   "faucets": [],
   "nativeCurrency": { "name": "ATOM", "symbol": "ATOM", "decimals": 18 },
   "infoURL": "https://atomprotocol.network",
@@ -18,6 +18,6 @@
   "genesis": {
     "hash": "0x0c81671cc55ddf5da0a8006f1f1e8f05d9aa7c090a83be1b9dd3",
     "timestamp": "2026-10-21T16:00:04Z",
-    "blocks": 993
+    "blocks": 16980
   }
 }
