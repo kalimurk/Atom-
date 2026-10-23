@@ -2,9 +2,9 @@
   "name": "ATOM Protocol Mainnet",
   "chain": "ATOM",
   "icon": "atom",
-  "rpc": ["https://63be682053699d.lhr.life"],
+  "rpc": ["https://les-circumstances-creative-european.trycloudflare.com"],
   "faucets": [],
-  "nativeCurrency": { "name": "ATOM", "symbol": "ATOM", "decimals": 18 },
+  "nativeCurrency": {"name":"ATOM","symbol":"ATOM","decimals":18},
   "infoURL": "https://atomprotocol.network",
   "shortName": "atom-42069",
   "chainId": 42069,
@@ -14,10 +14,5 @@
     "url": "https://explorer.atomprotocol.network",
     "standard": "EIP3091"
   }],
-  "status": "incubating",
-  "genesis": {
-    "hash": "0x0c81671cc55ddf5da0a8006f1f1e8f05d9aa7c090a83be1b9dd3",
-    "timestamp": "2026-10-21T16:00:04Z",
-    "blocks": 16980
-  }
+  "status": "incubating"
 }
