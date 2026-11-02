@@ -2,7 +2,7 @@
   "name": "ATOM Protocol Mainnet",
   "chain": "ATOM",
   "icon": "atom",
-  "rpc": ["https://les-circumstances-creative-european.trycloudflare.com"],
+  "rpc": ["https://coated-judge-automobiles-flu.trycloudflare.com"],
   "faucets": [],
   "nativeCurrency": {"name":"ATOM","symbol":"ATOM","decimals":18},
   "infoURL": "https://atomprotocol.network",

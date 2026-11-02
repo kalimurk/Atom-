@@ -1,11 +1,11 @@
 # ATOM Protocol Mainnet — 42069 LIVE
 
-ChainId: 42069 (0xa455) | Blocks: 16980+ | RPC: https://les-circumstances-creative-european.trycloudflare.com
+ChainId: 42069 (0xa455) | Blocks: 16980+ | RPC: https://coated-judge-automobiles-flu.trycloudflare.com
 PR: https://github.com/ethereum-lists/chains/pull/9002
 
 ## Add to MetaMask
 Network: ATOM Protocol Mainnet
-RPC: https://les-circumstances-creative-european.trycloudflare.com
+RPC: https://coated-judge-automobiles-flu.trycloudflare.com
 Chain ID: 42069
 Symbol: ATOM
 
